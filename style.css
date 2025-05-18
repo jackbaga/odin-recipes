@@ -1,0 +1,18 @@
+h1 {
+    background-color: brown;
+    color: aliceblue;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+.recipe {
+    display: inline;
+    background-color: #b8860b;
+    color:black;
+    text-align: left;
+    padding: 10px;
+    border: solid 3px;
+    border-color: black;
+    margin: auto;
+}

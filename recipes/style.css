@@ -1,0 +1,55 @@
+.recipe-name {
+    color:aliceblue;
+    background-color: brown;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+.home {
+    color:black;
+    background-color: darkorange;
+    padding:10px;
+    border: solid 3px black;
+    display: inline;
+    margin-left:1500px;
+    float:right;
+}
+
+.image {
+    display: block;
+    margin:10px auto;
+    height: 500px;
+    width: auto;
+}
+
+.info {
+    display: inline;
+    padding:5px;
+    border: solid 3px black;
+    background-color: cornflowerblue;
+    margin: 15px auto;
+}
+
+.ingredients {
+    background-color: aqua;
+    border: solid 3px black;
+    margin: 15px auto;
+}
+
+.ingredient {
+    margin:5px;
+}
+
+.directions {
+    background-color: gold;
+    border: solid 3px black;
+}
+
+.direction {
+    margin: auto 5px;
+}
+
+.steps {
+    margin: auto 10px;
+}
