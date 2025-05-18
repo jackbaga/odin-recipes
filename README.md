@@ -1,2 +1,2 @@
 # odin-recipes
-study repo on HTML
+study repo on HTML and CSS
